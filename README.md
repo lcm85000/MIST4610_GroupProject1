@@ -20,6 +20,34 @@ Members also have the ability to reserve a certain court and or facility for the
 ![Data Model](img/dataModel.jpeg)
 
 ## Data Dictionary
+![Staff Table](img/tables/staff.png)
+
+![Coach Table](img/tables/coach.png)
+
+![Coach_has_Program Table](img/tables/coach_has_program.png)
+
+![Program Table](img/tables/program.png)
+
+![Member Table](img/tables/member.png)
+
+![Member_has_Program Table](img/tables/member_has_program.png)
+
+![Transaction Table](img/tables/transaction.png)
+
+![Purchase Table](img/tables/purchase.png)
+
+![Equipment Table](img/tables/equipment.png)
+
+![MembershipTier Table](img/tables/membershipTier.png)
+
+![Reservation Table](img/tables/reservation.png)
+
+![Facility Table](img/tables/facility.png)
+
+![Court Table](img/tables/court.png)
+
+![Tournament Table](img/tables/tournament.png)
+
 ## Queries
 1. Q1
 2. Q2
