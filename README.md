@@ -17,6 +17,8 @@ Involving the tennis programs provided by the club, each coach or member can par
 
 Members also have the ability to reserve a certain court and or facility for their personal use. Each reservation is made by a single member, and multiple reservations can be associated with the same member, reflecting their booking history. A court can have multiple reservations for various time slots, and each reservation is linked to a specific court for a particular time and date. Multiple courts can be part of the same facility, such as a tennis complex or a sports center. However, each court is associated with only one specific facility.
 
+![Data Model](img/dataModel.jpeg)
+
 ## Data Dictionary
 ## Queries
 1. Q1
