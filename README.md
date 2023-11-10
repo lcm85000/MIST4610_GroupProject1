@@ -55,13 +55,15 @@ Members also have the ability to reserve a certain court and or facility for the
 1. Query 1
 This query lists members, the tournaments they have participated in, and the facilities where the tournaments took place, and then groups the results by member. This would be useful for managers to be able to track a certain member’s tournament participation and reach out to them for upcoming tournaments.
 
-2. Query 2
+(ONE.png)
+
+3. Query 2
 This query retrieves a list of members who have not made any reservations through using NOT EXISTS. This would allow managers to analyze which members are least involved in the personal use of club facilities and courts, and possibly reach out to them to keep them an engaged member.
 
-3. Query 3
+4. Query 3
 This query retrieves facilities that have multiple courts. This would allow managers to narrow down which facilities would be best to book events such as large tournaments.
 
-4. needs to be redone
+5. needs to be redone
 
 5.Query 5
 This query retrieves members, their associated tournaments, and counts their reservations, but only for tournaments in the year 2023. This would allow club managers to see who are the most recently engaged members of the club and possible reach out to them about upgrading their memebership tier.
