@@ -67,7 +67,7 @@ This query retrieves facilities that have multiple courts. This would allow mana
 ![THREE](img/queries/THREE.png)
 
 ## Query 4
-This query retrieves data about membership tiers, equipment, and purchases based on the specified conditions and regular expression matching. 
+This query is useful for retrieving information about premium membership tiers, expensive equipment purchases, and discounted or sale-related transactions that occurred within a specified time frame. It helps in analyzing data related to premium memberships, expensive equipment sales, and promotional activities, providing valuable insights for sales analysis and customer behavior evaluation.
 
 ![FOUR](img/queries/FOUR.png)
 
