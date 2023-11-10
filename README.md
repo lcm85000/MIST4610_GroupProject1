@@ -55,7 +55,7 @@ Members also have the ability to reserve a certain court and or facility for the
 1. Query 1
 This query lists members, the tournaments they have participated in, and the facilities where the tournaments took place, and then groups the results by member. This would be useful for managers to be able to track a certain member’s tournament participation and reach out to them for upcoming tournaments.
 
-(ONE.png)
+![ONE](img/quieries/ONE.png)
 
 3. Query 2
 This query retrieves a list of members who have not made any reservations through using NOT EXISTS. This would allow managers to analyze which members are least involved in the personal use of club facilities and courts, and possibly reach out to them to keep them an engaged member.
