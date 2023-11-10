@@ -49,7 +49,32 @@ Members also have the ability to reserve a certain court and or facility for the
 ![Tournament Table](img/tables/tournament.png)
 
 ## Queries
-1. Q1
-2. Q2
-3. ...
+1. Query 1
+This query lists members, the tournaments they have participated in, and the facilities where the tournaments took place, and then groups the results by member. This would be useful for managers to be able to track a certain member’s tournament participation and reach out to them for upcoming tournaments.
+
+2. Query 2
+This query retrieves a list of members who have not made any reservations through using NOT EXISTS. This would allow managers to analyze which members are least involved in the personal use of club facilities and courts, and possibly reach out to them to keep them an engaged member.
+
+3. Query 3
+This query retrieves facilities that have multiple courts. This would allow managers to narrow down which facilities would be best to book events such as large tournaments.
+
+4. needs to be redone
+
+5.Query 5
+This query retrieves members, their associated tournaments, and counts their reservations, but only for tournaments in the year 2023. This would allow club managers to see who are the most recently engaged members of the club and possible reach out to them about upgrading their memebership tier.
+
+6. Query 6
+This query retrieves equipment names and their total quantities purchased, but only for equipment with quantities greater than the average quantity purchased in the specified date range. This will allow managers of the sales aspect of the club to discover the most popular recent items. This might change how they order stock or update prices.
+
+7. Query 7 needs to be redone
+
+8. Query 8
+This query finds facilities that have had more than 5 tournaments and then sorts them by location. This would allow staff to find the most popular and closest facilities while organizing an upcoming tournament. 
+
+9. Query 9: 
+This query provides valuable insights into the total amount spent on equipment and the total quantity of items purchased by each member. This information can help them identify the most active and valuable members within the club, and assess the profitability of the equipment sales aspect of the business.
+
+10. Query 10
+This query can provide insights into the popularity of different tennis programs among the members. It takes the count of the members in each program to see which ones are most popular, and then sorts those results by program name. This information can help them identify the most sought-after programs and tailor their offerings to meet the demands. 
+
 ## Database Information
