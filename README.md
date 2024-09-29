@@ -5,6 +5,8 @@
 1. Lindsey
 2. Ronit Subramanian [@ronsub101](https://github.com/ronsub101)
 3. Daisie
+4. Lance
+5. Vivian
 ## Problem Description
 This project focuses on building a relational database for the "Ace All Stars Tennis Club" located in the heart of Athens, Georgia. The club caters to a diverse community of tennis enthusiasts, including both professional and amateur players, as well as individuals of all ages and skill levels. We hope to provide a database that can accurately represent the relationships between members, coaches, staff and their use of the different tennis equipment and facilities. The various events, tournaments, and programs would also benefit from a relational database to track their involvement, location, and other key details.
 
